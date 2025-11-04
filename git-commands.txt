@@ -1,0 +1,38 @@
+    ls
+   pwd
+   mkdir myfile.txt
+   ls
+   rm myfile.txt
+   ls
+   clear
+   dir
+   dir -a
+   dir -Attributes
+   clear
+   git init
+   rm .\test.py
+   ls
+   git status
+   git status
+   git add test.py
+   git status
+   git rm test.py
+   git rm --cached test.py
+   git status
+   git add .\test.py
+   git status
+   git commit -m "Added file"
+   git config --global user.email "vamsi2000pulagam@gmail.com"
+   git config --global user.name "VamsiPulagam"
+   git commit -m "Added file"
+   rm test.py
+   git restore test.py
+   git status
+   git history
+   history
+   git remote add origin https://github.com/VamsiPulagam/Github-for-devops.git
+   git remote -v
+   git remote set-url origin https://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@github.com/VamsiPulagam/Github-for-devops.git
+   git remote -v
+   git push origin master
+  clear
