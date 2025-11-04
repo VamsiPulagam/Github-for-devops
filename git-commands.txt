@@ -36,3 +36,5 @@
    git remote -v
    git push origin master
   clear
+
+I added this nee line in github and will pull to local repo
